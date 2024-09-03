@@ -42,7 +42,7 @@ This application showcases two-factor authentication (2FA) using Time-based One-
 1. **Run the Flask application:**
 
    ```bash
-   python app.py
+   python 2FA.py
    ```
 
 2. **Open your web browser and navigate to:**
