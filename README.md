@@ -1,12 +1,9 @@
 # FUTURE_CS_01
 Implementing Two-Factor Authentication (2FA)
 
-Here's a sample `README.md` file for your Flask application repository:
+# 2FA Authentication
 
-```markdown
-# Flask 2FA Authentication
-
-This is a simple Flask application that demonstrates two-factor authentication (2FA) using TOTP (Time-based One-Time Password) and QR codes. Users can register, log in, and use a TOTP-based 2FA to secure their accounts.
+This is a application that demonstrates two-factor authentication (2FA) using TOTP (Time-based One-Time Password) and QR codes. Users can register, log in, and use a TOTP-based 2FA to secure their accounts.
 
 ## Features
 
