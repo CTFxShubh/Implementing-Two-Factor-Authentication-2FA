@@ -15,8 +15,11 @@ This application showcases two-factor authentication (2FA) using Time-based One-
 ## Prerequisites
 
 -> Python 3.6 or later
+
 -> Flask framework
+
 -> pyotp library for TOTP
+
 -> qrcode library for QR code generation
 
 ## Installation
