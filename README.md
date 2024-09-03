@@ -3,39 +3,32 @@ Implementing Two-Factor Authentication (2FA)
 
 # 2FA Authentication
 
-This is a application that demonstrates two-factor authentication (2FA) using TOTP (Time-based One-Time Password) and QR codes. Users can register, log in, and use a TOTP-based 2FA to secure their accounts.
+This application showcases two-factor authentication (2FA) using Time-based One-Time Passwords (TOTP) and QR codes. It enables users to register, log in, and enhance account security through TOTP-based 2FA.
 
 ## Features
 
-- User registration with username and password.
-- User login with password.
-- Two-factor authentication using TOTP.
-- QR code generation for 2FA setup.
+-> Implements user registration with secure username and password creation.
+-> Facilitates user login through password authentication.
+-> Enhances security with two-factor authentication (2FA) utilizing Time-based One-Time Password (TOTP).
+-> Generates QR codes for seamless 2FA setup and integration.
 
 ## Prerequisites
 
-- Python 3.6 or higher
-- Flask
-- pyotp
-- qrcode
+-> Python 3.6 or later
+-> Flask framework
+-> pyotp library for TOTP
+-> qrcode library for QR code generation
 
 ## Installation
 
 1. **Clone the repository:**
  
    ```bash
-   git clone https://github.com/Karthikdude/FUTURE_CS_01
+   git clone https://github.com/CTFxShubh/FUTURE_CS_01.git
    cd FUTURE_CS_01
    ```
 
-2. **Create a virtual environment (optional but recommended):**
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required packages:**
+2. **Install the required packages:**
 
    ```bash
    pip install Flask pyotp qrcode
