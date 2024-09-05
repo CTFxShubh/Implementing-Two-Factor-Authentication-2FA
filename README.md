@@ -1,5 +1,5 @@
 # FUTURE_CS_01
-Implementing Two-Factor Authentication (2FA)
+## Implementing Two-Factor Authentication (2FA)
  
 # 2FA Authentication
 
