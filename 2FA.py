@@ -3,7 +3,7 @@ import pyotp
 import qrcode
 import io
 from base64 import b64encode
-
+ 
 app = Flask(__name__)
 app.secret_key = 'supersecretkey'
 users = {}
