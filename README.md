@@ -1,6 +1,6 @@
 # FUTURE_CS_01
 Implementing Two-Factor Authentication (2FA)
-
+ 
 # 2FA Authentication
 
 This application showcases two-factor authentication (2FA) using Time-based One-Time Passwords (TOTP) and QR codes. It enables users to register, log in, and enhance account security through TOTP-based 2FA.
